@@ -26,9 +26,9 @@ https://expo.io/artifacts/ee4a0cad-9612-4db7-a868-0adfbabe8116
 
 ✔️User can also mark done a ***TODO***, the effect of which can be seen across different devices.
 
-#Screenshots
+# Screenshots of APP
 
-##Splash Screen
+## Splash Screen
 
 [![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.391aeb203d8ad95f35.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.391aeb203d8ad95f35.md.png)](https://gifyu.com/image/AjCw)
 
