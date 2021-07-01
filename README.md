@@ -26,6 +26,32 @@ https://expo.io/artifacts/ee4a0cad-9612-4db7-a868-0adfbabe8116
 
 ✔️User can also mark done a ***TODO***, the effect of which can be seen across different devices.
 
+#Screenshots
+
+##Splash Screen
+
+[![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.391aeb203d8ad95f35.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.391aeb203d8ad95f35.md.png)](https://gifyu.com/image/AjCw)
+
+## Login Screen
+
+[![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.43.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.41.43.md.png)](https://gifyu.com/image/Aj06)
+
+
+## Home Page 
+
+[![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.02.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.02.md.png)](https://gifyu.com/image/AjCY)
+
+## Add a TODO
+
+[![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.18.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.18.md.png)](https://gifyu.com/image/AjFb)
+
+## Edit a TODO
+
+[![Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.31.md.png](https://s6.gifyu.com/images/Simulator-Screen-Shot---iPhone-12---2021-07-01-at-17.42.31.md.png)](https://gifyu.com/image/AjF3)
+
+
+
+
 
 
 
