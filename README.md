@@ -2,11 +2,6 @@
 # Todo App 
 
 
-## Demo
-
-[![test4870a937cdeb5ac9.md.gif](https://s6.gifyu.com/images/test4870a937cdeb5ac9.md.gif)](https://gifyu.com/image/A026)
-
-
 ## Installation
 
 To see the working app on android you can download the android APK from the given link
